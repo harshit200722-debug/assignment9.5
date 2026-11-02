@@ -1,11 +1,14 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-9.5.md
+Assignment 9.5 — Responsive Landing Page: Finish & Review[cite: 45]
+What to build: Make the landing page from Assignment 9.4 complete, responsive, and portfolio-ready[cite: 45].
+Steps:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Implement tablet and mobile breakpoints[cite: 45].
+2. Adjust the navbar and content for small screens[cite: 45].
+3. Make images and typography responsive[cite: 45].
+4. Test the functionality of buttons and links[cite: 45].
+5. Check different viewport sizes in Chrome DevTools[cite: 45].
+6. Fix horizontal scrolling, overlapping, broken images, and spacing issues[cite: 45].
+7. Keep HTML/CSS clean and properly formatted[cite: 45].
+8. Push final changes to GitHub[cite: 45].
+Submission: Final responsive landing page, desktop/tablet/mobile screenshots, and updated GitHub repository link[cite: 45].
